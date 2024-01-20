@@ -6,7 +6,7 @@ const AboutPage = () => {
   return (
     <main>
       <h1>About Me</h1>
-      <p>Hi there! This is the about page that I am testing with Gatsby.</p>
+      <p>Hi there! This is the about page that I am testing with Gatsby!</p>
     </main>
   )
 }
